@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ,,,ruby
-MyProjectViewTool::Renderer.copyright 'Homer Simpson', 'All right reserved'
+MyProjectViewTool::Renderer.copyright 'John Paolo Paulino', 'All right reserved'
 ,,,
 
 ## Development
