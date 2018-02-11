@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+,,,ruby
+MyProjectViewTool::Renderer.copyright 'Homer Simpson', 'All right reserved'
+,,,
 
 ## Development
 

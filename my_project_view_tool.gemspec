@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Vatious view specific methods for applications I use}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "none"
+  spec.homepage      = "https://devcamp.com"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
